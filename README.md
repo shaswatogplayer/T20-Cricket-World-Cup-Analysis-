@@ -36,6 +36,7 @@ The following insights were generated and visualized in Power BI:
 
 Batting Performance:
 Top run-scorers in the tournament.
+
 Best strike rates and averages by batsmen.
 Bowling Performance:
 Top wicket-takers and economy rates.
