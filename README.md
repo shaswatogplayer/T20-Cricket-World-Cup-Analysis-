@@ -7,11 +7,14 @@ This project involves the analysis of Cricket T20 World Cup data, focusing on ba
 
 # Key Features
 Web Scraping: Used Python to scrape T20 World Cup data from websites.
+
 Data Cleaning and Preparation: The data was processed using Pandas to ensure accuracy and consistency.
-Data Analysis: Conducted analysis on:
-Batting performances (runs, strike rates, averages).
+
+Data Analysis: Conducted analysis on:Batting performances (runs, strike rates, averages).
 Bowling performances (wickets, economy rates).
+
 Match summaries and results.
+
 Data Visualization: Presented insights using Power BI with dynamic, interactive dashboards for easy interpretation.
 
 
