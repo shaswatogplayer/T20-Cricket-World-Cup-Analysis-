@@ -20,17 +20,25 @@ Data Visualization: Presented insights using Power BI with dynamic, interactive 
 
 # Tools and Technologies Used
 Python:
+
 Pandas: For data manipulation, cleaning, and preprocessing.
+
 NumPy: For handling numerical data and arrays.
+
 Matplotlib: For basic plotting and data visualization.
+
 BeautifulSoup/Scrapy (if used): For web scraping to extract data from websites.
+
 Power BI: For creating and displaying interactive visualizations.
 
 
 # Data Scraping and Analysis Workflow
 Data Collection: The data for the Cricket T20 World Cup was collected through web scraping.
+
 Data Cleaning and Processing: Pandas was used to handle missing values, format columns, and perform basic transformations.
+
 Exploratory Data Analysis (EDA): Using Pandas and Matplotlib, basic analysis was performed to find trends in batting, bowling, and match performance.
+
 Data Visualization: The cleaned and analyzed data was imported into Power BI to create interactive dashboards showing key statistics.
 
 
@@ -38,24 +46,35 @@ Data Visualization: The cleaned and analyzed data was imported into Power BI to 
 The following insights were generated and visualized in Power BI:
 
 Batting Performance:
+
 Top run-scorers in the tournament.
 
 Best strike rates and averages by batsmen.
+
 Bowling Performance:
+
 Top wicket-takers and economy rates.
+
 Best bowling figures by match.
 Match Summaries:
+
 Detailed summaries of match outcomes and winning margins.
+
 Team Performances:
+
 Overall performance comparison of participating teams.
 
 
 # Visualizations
+
 Some of the Power BI visualizations included in this project:
 
 Top Batsmen: Bar chart displaying the top run-scorers.
+
 Top Bowlers: Bar chart showing the leading wicket-takers.
+
 Match Results: Pie charts and bar graphs representing match outcomes and winning teams.
+
 Performance by Country: Maps and tables summarizing each team's performance throughout the tournament.
 
 
