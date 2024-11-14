@@ -1,11 +1,11 @@
 # T20-Cricket-World-Cup-Analysis-
 
 
-#Cricket T20 World Cup Data Analysis
+# Cricket T20 World Cup Data Analysis
 Overview
 This project involves the analysis of Cricket T20 World Cup data, focusing on batting performances, bowling performances, match summaries, and match results. The data was web-scraped using Python libraries like Pandas, NumPy, and Matplotlib to clean and process the data. The results are presented using Power BI to visualize insights and key statistics.
 
-#Key Features
+# Key Features
 Web Scraping: Used Python to scrape T20 World Cup data from websites.
 Data Cleaning and Preparation: The data was processed using Pandas to ensure accuracy and consistency.
 Data Analysis: Conducted analysis on:
@@ -15,7 +15,7 @@ Match summaries and results.
 Data Visualization: Presented insights using Power BI with dynamic, interactive dashboards for easy interpretation.
 
 
-#Tools and Technologies Used
+# Tools and Technologies Used
 Python:
 Pandas: For data manipulation, cleaning, and preprocessing.
 NumPy: For handling numerical data and arrays.
@@ -24,14 +24,14 @@ BeautifulSoup/Scrapy (if used): For web scraping to extract data from websites.
 Power BI: For creating and displaying interactive visualizations.
 
 
-#Data Scraping and Analysis Workflow
+# Data Scraping and Analysis Workflow
 Data Collection: The data for the Cricket T20 World Cup was collected through web scraping.
 Data Cleaning and Processing: Pandas was used to handle missing values, format columns, and perform basic transformations.
 Exploratory Data Analysis (EDA): Using Pandas and Matplotlib, basic analysis was performed to find trends in batting, bowling, and match performance.
 Data Visualization: The cleaned and analyzed data was imported into Power BI to create interactive dashboards showing key statistics.
 
 
-#Key Insights and Visualizations
+# Key Insights and Visualizations
 The following insights were generated and visualized in Power BI:
 
 Batting Performance:
@@ -46,7 +46,7 @@ Team Performances:
 Overall performance comparison of participating teams.
 
 
-#Visualizations
+# Visualizations
 Some of the Power BI visualizations included in this project:
 
 Top Batsmen: Bar chart displaying the top run-scorers.
